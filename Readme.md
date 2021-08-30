@@ -1,3 +1,3 @@
 # Pamy
 
-This is my master thesis project.
+This is my complicated Master thesis project.
